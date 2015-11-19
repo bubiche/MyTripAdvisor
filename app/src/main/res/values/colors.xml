@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="normal_start">#DF5A20</color>
+    <color name="normal_end">#904321</color>
+    <color name="normal_border">#EDB9AF</color>
+    <color name="normal_text">#000000</color>
+    <color name="normal_start_multi">#CB5500</color>
+    <color name="normal_end_multi">#F88800</color>
+
+    <color name="pressed_start">#822300</color>
+    <color name="pressed_end">#D7530F</color>
+    <color name="pressed_border">#EDBAB0</color>
+    <color name="pressed_text">#FFFFFF</color>
+    <color name="pressed_start_multi">#F88800</color>
+    <color name="pressed_end_multi">#CB5500</color>
+
+    <color name="focused_start">#944224</color>
+    <color name="focused_end">#D8703B</color>
+    <color name="focused_border">#862501</color>
+    <color name="focused_text">#000000</color>
+    <color name="focused_start_multi">#F88800</color>
+    <color name="focused_end_multi">#CB5500</color>
+    <color name="focused_start_multi_1">#FDD401</color>
+    <color name="focused_end_multi_1">#E68E15</color>
+
+    <color name="disabled_start">#EAB6A6</color>
+    <color name="disabled_end">#C9AB9D</color>
+    <color name="disabled_border">#EBC7BE</color>
+    <color name="disabled_text">#EBC7BE</color>
+    <color name="disabled_start_multi">#EFC49A</color>
+    <color name="disabled_end_multi">#E0B18E</color>
+
+    <color name="disabled_and_focused_start">#C29B8C</color>
+    <color name="disabled_and_focused_end">#E2AE94</color>
+    <color name="disabled_and_focused_border">#B27E6B</color>
+    <color name="disabled_and_focused_text">#B27E6B</color>
+    <color name="disabled_and_focused_start_multi">#F2E08F</color>
+    <color name="disabled_and_focused_end_multi">#EAC896</color>
+
+</resources>

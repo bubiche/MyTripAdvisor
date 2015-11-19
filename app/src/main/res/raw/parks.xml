@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<parks>
+    <park>
+        <name>Công viên Bách thảo</name>
+        <description>Opened in 1890. We are one of the oldest parks in Vietnam. Located near the city center, our park can easily be found if you are looking for a place to be one with nature</description>
+        <photo_name>park01</photo_name>
+        <rating>4</rating>
+        <address>Hoàng Hoa Thám, Ngọc Hà, Ba Đình, Hà Nội, Việt Nam</address>
+        <phone>No Phone Number</phone>
+        <website>https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_b%C3%A1ch_th%E1%BA%A3o_H%C3%A0_N%E1%BB%99i</website>
+        <open_time>6:00</open_time>
+        <close_time>18:00</close_time>
+        <region>Hà Nội</region>
+		<long>105.831969</long>
+        <lat>21.041828</lat>
+        <ticket_price>4000</ticket_price>
+    </park>
+    <park>
+        <name>Công viên Thủ Lệ</name>
+        <description>Opened in 1975, our park is one of the best ones in Ha Noi. We offer a wide variety of trees in a vast area for you to submerge yourself in!</description>
+        <photo_name>park02</photo_name>
+        <rating>2</rating>
+        <address>Kim Mã, Ngọc Khánh, Ba Đình, Hà Nội, Việt Nam</address>
+        <phone>No Phone Number</phone>
+        <website>https://vi.wikipedia.org/wiki/C%C3%B4ng_vi%C3%AAn_Th%E1%BB%A7_L%E1%BB%87</website>
+        <open_time>8:00</open_time>
+        <close_time>18:00</close_time>
+        <region>Hà Nội</region>
+        <long>105.807758</long>
+        <lat>21.031087</lat>
+        <ticket_price>10000</ticket_price>
+    </park>
+    <park>
+        <name>Công Viên Kim Đồng</name>
+        <description>We have 2 branches in Ha Noi and Hue. Please visit the nearest branch to have a one of a kind experience in our park.</description>
+        <photo_name>park03</photo_name>
+        <rating>3</rating>
+        <address>Hà Nội, Huế, Việt Nam</address>
+        <phone>84543823579</phone>
+        <website>https://www.facebook.com/pages/C%C3%B4ng-Vi%C3%AAn-Kim-%C4%90%E1%BB%93ng/503248666407403</website>
+        <open_time>8:00</open_time>
+        <close_time>18:00</close_time>
+        <region>Huế</region>
+        <long>107.587334</long>
+        <lat>16.4622377</lat>
+        <ticket_price>0</ticket_price>
+    </park>
+    <park>
+        <name>Thảo Cầm Viên</name>
+        <description>We are both a park and a zoo! The best of both worlds come together! Enjoy the relaxing shades of the trees while watching animals in their daily life!</description>
+        <photo_name>park04</photo_name>
+        <rating>5</rating>
+        <address>02 Nguyễn Bỉnh Khiêm, Bến Nghé, Hồ Chí Minh, Việt Nam</address>
+        <phone>84838293728</phone>
+        <website>http://www.saigonzoo.net/</website>
+        <open_time>7:00</open_time>
+        <close_time>17:00</close_time>
+        <region>Hồ Chí Minh</region>
+        <long>106.6972289</long>
+        <lat>10.7608532</lat>
+        <ticket_price>50000</ticket_price>
+    </park>
+    <park>
+        <name>Công Viên Văn Hoá Miền Tây</name>
+        <description>We offer both the close-to-nature feeling of a park and the cultural atmosphere of Southwestern Viet Nam. Just come and see for yourself!</description>
+        <photo_name>park05</photo_name>
+        <rating>4</rating>
+        <address>An Thới, Ninh Kiều, Cần Thơ, Việt Nam</address>
+        <phone>847103822169</phone>
+        <website> </website>
+        <open_time>7:00</open_time>
+        <close_time>18:00</close_time>
+        <region>Cần Thơ</region>
+        <long>105.7645055</long>
+        <lat>10.0521223</lat>
+        <ticket_price>40000</ticket_price>
+    </park>
+    <park>
+        <name>Công viên Ninh Kiều</name>
+        <description>Established in the 19th century. We are also a small harbor where you can have a retrospective moment about the old Southwestern Vietnam.</description>
+        <photo_name>park06</photo_name>
+        <rating>5</rating>
+        <address>Hai Bà Trưng, Tân An, Ninh Kiều, Cần Thơ, Việt Nam</address>
+        <phone>847103822169</phone>
+        <website>https://vi.wikipedia.org/wiki/B%E1%BA%BFn_Ninh_Ki%E1%BB%81u</website>
+        <open_time>Open 24h</open_time>
+        <close_time>Open 24h</close_time>
+        <region>Cần Thơ</region>
+        <long>105.7811996</long>
+        <lat>10.0331486</lat>
+        <ticket_price>0</ticket_price>
+    </park>
+</parks>

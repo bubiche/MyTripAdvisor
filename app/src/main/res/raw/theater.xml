@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theaters>
+    <theater>
+        <name>CGV Sense City</name>
+        <description>Located in 3rd Floor, Sense City. Watch the latest movies in the best cinema. We hope you will have a goof time with us.</description>
+        <photo_name>cine01</photo_name>
+        <rating>5</rating>
+        <address>1 Hòa Bình, Cần Thơ, Việt Nam</address>
+        <phone>847103819111</phone>
+        <website>https://www.cgv.vn</website>
+        <open_time>8:00</open_time>
+        <close_time>23:30</close_time>
+        <region>Cần Thơ</region>
+        <long>105.7860631</long>
+        <lat>10.034043</lat>
+        <ticket_price>55000</ticket_price>
+    </theater>
+	<theater>
+        <name>Lotte Cinema Can Tho</name>
+        <description>Located in the 1st floor, Big C Cần Thơ. We can easily be found in one of the biggest shopping mall in Can Tho. Enjoy your movies in our top notch theater</description>
+        <photo_name>cine02</photo_name>
+        <rating>5</rating>
+        <address>Phường Hưng Phú, Q Cái Răng, TP Cần Thơ, Việt Nam</address>
+        <phone>847103917172</phone>
+        <website>http://lottecinemavn.com/vi-vn/rap-phim/can-tho/can-tho.aspx</website>
+        <open_time>8:00</open_time>
+        <close_time>23:00</close_time>
+        <region>Cần Thơ</region>
+        <long>105.7846811</long>
+        <lat>10.0142089</lat>
+        <ticket_price>45000</ticket_price>
+    </theater>
+	<theater>
+        <name>Cần Thơ Museum</name>
+        <description>Grand Reopening since 2000! Tickets now cost only 2000VND each.Relive historical moments in one of the oldest museums in Can Tho</description>
+        <photo_name>museum01</photo_name>
+        <rating>3</rating>
+        <address>1 Ðại lộ Hòa Bình, phường Tân An, quận Ninh Kiều, TP Cần Thơ, Việt Nam</address>
+        <phone>847103820955</phone>
+        <website>http://baotanglichsu.vn/portal/vi/Tin-tuc/Nhung-nguoi-ban-bao-tang/2014/06/3A9240A9/</website>
+        <open_time>8:00</open_time>
+        <close_time>17:00</close_time>
+        <region>Cần Thơ</region>
+        <long>105.7867547</long>
+        <lat>10.0345163</lat>
+        <ticket_price>2000</ticket_price>
+    </theater>
+	<theater>
+        <name>CGV CT Plaza</name>
+        <description>Located in the 10th floor, CT Plaza. CGV is a famous name in the business. You will not be disappointed with our quality.</description>
+        <photo_name>cine03</photo_name>
+        <rating>4</rating>
+        <address>Phường 2, CT Plaza, 60A Trường Sơn, Thành phố Hồ Chí Minh, Việt Nam</address>
+        <phone>84862971981</phone>
+        <website>https://www.cgv.vn</website>
+        <open_time>8:00</open_time>
+        <close_time>23:30</close_time>
+        <region>Hồ Chí Minh</region>
+        <long>105.7860631</long>
+        <lat>10.034043</lat>
+        <ticket_price>75000</ticket_price>
+    </theater>
+	<theater>
+        <name>CGV Pandora City</name>
+        <description>Located in the 3rd floor, Pandora City. CGV is a famous name in the business. You will not be disappointed with our quality.</description>
+        <photo_name>cine04</photo_name>
+        <rating>5</rating>
+        <address>1 Trường Chinh, Thành phố Hồ Chí Minh, Việt Nam</address>
+        <phone>84838123000</phone>
+        <website>https://www.cgv.vn</website>
+        <open_time>8:00</open_time>
+        <close_time>23:30</close_time>
+        <region>Hồ Chí Minh</region>
+        <long>106.63616</long>
+        <lat>10.806966</lat>
+        <ticket_price>75000</ticket_price>
+    </theater>
+	<theater>
+        <name>CGV Crescent Mall</name>
+        <description>Located in the 5th floor, Crescent Mall.CGV is a famous name in the business. You will not be disappointed with our quality.</description>
+        <photo_name>cine05</photo_name>
+        <rating>4</rating>
+        <address>3 Nguyễn Văn Linh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam</address>
+        <phone>84854122222</phone>
+        <website>http://www.nhahathoabinh.com.vn/</website>
+        <open_time>9:00</open_time>
+        <close_time>23:30</close_time>
+        <region>Hồ Chí Minh</region>
+        <long>106.7189451</long>
+        <lat>10.7290698</lat>
+        <ticket_price>75000</ticket_price>
+    </theater>
+	<theater>
+        <name>Kinh thành Huế</name>
+        <description>World Cultural Heritage! Relive the old days of the Nguyen Dynasty. The past still has so much to be explored.</description>
+        <photo_name>museum03</photo_name>
+        <rating>5</rating>
+        <address>Thừa Thiên Huế, Việt Nam</address>
+        <phone>0945313989</phone>
+        <website>https://vi.wikipedia.org/wiki/Kinh_th%C3%A0nh_Hu%E1%BA%BF</website>
+        <open_time>Open 24h</open_time>
+        <close_time>Open 24h</close_time>
+        <region>Huế</region>
+        <long>107.579208</long>
+        <lat>16.468787</lat>
+        <ticket_price>150000</ticket_price>
+    </theater>
+	<theater>
+        <name>Lăng Minh Mạng</name>
+        <description>The tomb of Minh Mang. It was built from 1840 to 1843 by over ten thousand craftsmen and soldiers.</description>
+        <photo_name>museum04</photo_name>
+        <rating>5</rating>
+        <address>49 Hương Thọ, tx. Hương Trà, Thừa Thiên Huế, Việt Nam</address>
+        <phone>0945313989</phone>
+        <website>https://vi.wikipedia.org/wiki/L%C4%83ng_Minh_M%E1%BA%A1ng</website>
+        <open_time>8:00</open_time>
+        <close_time>23:00</close_time>
+        <region>Huế</region>
+        <long>107.5697717</long>
+        <lat>16.3882436</lat>
+        <ticket_price>0</ticket_price>
+    </theater>
+	<theater>
+        <name>Bảo tàng Hồ Chí Minh</name>
+        <description>One of the 14 Ho Chi Minh Museum scattered all over Viet Nam. We have our own unique relics of Ho Chi Minh.</description>
+        <photo_name>museum05</photo_name>
+        <rating>2</rating>
+        <address>19 Ngọc Hà, Ba Đình, Hà Nội, Việt Nam</address>
+        <phone>84438463757</phone>
+        <website>http://www.baotanghochiminh.vn/</website>
+        <open_time>8:00</open_time>
+        <close_time>16:30</close_time>
+        <region>Hà Nội</region>
+        <long>105.8355668</long>
+        <lat>21.0319773</lat>
+        <ticket_price>2000</ticket_price>
+    </theater>
+	<theater>
+        <name>Bảo tàng Phụ nữ Việt Nam</name>
+        <description>Vietnamese Women Museum. We are in the top 25 most attractive museums in Asia. Come to find out why!</description>
+        <photo_name>museum06</photo_name>
+        <rating>4</rating>
+        <address>36 Lý Thường Kiệt, Hà Nội, Việt Nam</address>
+        <phone>84438259129</phone>
+        <website>http://www.womenmuseum.org.vn/</website>
+        <open_time>8:00</open_time>
+        <close_time>17:00</close_time>
+        <region>Hà Nội</region>
+        <long>105.8487877</long>
+        <lat>21.0227601</lat>
+        <ticket_price>15000</ticket_price>
+    </theater>
+	<theater>
+        <name>CGV MIPEC</name>
+        <description>Located in the 5th floor, MIPEC Tower. CGV is a famous name in the business. You will not be disappointed with our quality.</description>
+        <photo_name>cine06</photo_name>
+        <rating>4</rating>
+        <address>229 Tây Sơn, làng Khương Thượng, Đống Đa, Hà Nội, Việt Nam</address>
+        <phone>84462523333</phone>
+        <website>https://www.cgv.vn</website>
+        <open_time>8:00</open_time>
+        <close_time>23:30</close_time>
+        <region>Hà Nội</region>
+        <long>105.8249827</long>
+        <lat>21.0064586</lat>
+        <ticket_price>55000</ticket_price>
+    </theater>
+</theaters>

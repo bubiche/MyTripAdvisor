@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shops>
+    <shop>
+        <name>Casio Shop</name>
+        <description>Genuine Casio watches! Pair watches for you and your special other! Golden watched for the successful gentlemen!</description>
+        <photo_name>shop01</photo_name>
+        <rating>3</rating>
+        <address>78 Lê Trung Nghĩa 12 Tân Bình Hồ Chí Minh, Việt Nam</address>
+        <phone>0902846996</phone>
+        <website>http://casioshop.vn/</website>
+        <open_time>8:00</open_time>
+        <close_time>22:00</close_time>
+        <region>Hồ Chí Minh</region>
+        <long>106.6485937</long>
+        <lat>10.8009554</lat>
+        <products>
+            <product>
+                <pname>CASIO EFR-520L-7AV</pname>
+                <desc>Code&#58; EDIFICE EFR-520L-7AV</desc>
+                <photo>shop01_01</photo>
+            </product>
+			<product>
+                <pname>CASIO EFR 533D 1AV</pname>
+                <desc>Code&#58; EFR 533D 1AVDF</desc>
+                <photo>shop01_02</photo>
+            </product>
+			<product>
+                <pname>COMBO EF 530P 7AV - SHN 5003P 7A</pname>
+                <desc>Code&#58; EF 530P 7AV - SHN 5003P 7</desc>
+                <photo>shop01_03</photo>
+            </product>
+			<product>
+                <pname>CASIO SHN 5010L 4A2V</pname>
+                <desc>Code&#58; SHN 5010L 4A2VDF</desc>
+                <photo>shop01_04</photo>
+            </product>
+        </products>
+    </shop>
+	<shop>
+        <name>Flower Box</name>
+        <description>It is not easy to choose the perfect flower for special occasions. Come to us for the rescue!</description>
+        <photo_name>shop02</photo_name>
+        <rating>4</rating>
+        <address>101 Hoàng Hoa Thám 13 Tân Bình 13 Tân Bình Hồ Chí Minh, Việt Nam</address>
+        <phone>0908565525</phone>
+        <website>http://flowerbox.vn/</website>
+        <open_time>8:00</open_time>
+        <close_time>20:00</close_time>
+        <region>Hồ Chí Minh</region>
+        <long>106.638769</long>
+        <lat>10.8065797</lat>
+        <products>
+            <product>
+                <pname>Love Flowers TY084</pname>
+                <desc>Code&#58; TY084</desc>
+                <photo>shop02_01</photo>
+            </product>
+			<product>
+                <pname>Love Flowers TY027</pname>
+                <desc>Code&#58; TY027</desc>
+                <photo>shop02_02</photo>
+            </product>
+			<product>
+                <pname>Birthday Flowers SN091</pname>
+                <desc>Code&#58; SN091</desc>
+                <photo>shop02_03</photo>
+            </product>
+			<product>
+                <pname>Event Flowers SK001</pname>
+                <desc>Code&#58; SK001</desc>
+                <photo>shop02_04</photo>
+            </product>
+        </products>
+    </shop>
+	<shop>
+        <name>XDEAL</name>
+        <description>Best prices. You can find great deals with us! Do not wait, act now!</description>
+        <photo_name>shop03</photo_name>
+        <rating>2</rating>
+        <address>595 Sư Vạn Hạnh 13 Quận 10 Hồ Chí Minh, Việt Nam</address>
+        <phone>0905050053</phone>
+        <website>http://xdeal.vn/</website>
+        <open_time>8:00</open_time>
+        <close_time>21:30</close_time>
+        <region>Hồ Chí Minh</region>
+        <long>106.6740232</long>
+        <lat>10.7816721</lat>
+        <products>
+            <product>
+                <pname>Cool Coat DSOUARED</pname>
+                <desc>Code&#58; HT70</desc>
+                <photo>shop03_01</photo>
+            </product>
+			<product>
+                <pname>Korean shoes F5 Fashion</pname>
+                <desc>Code&#58; A158</desc>
+                <photo>shop03_01</photo>
+            </product>
+        </products>
+    </shop>
+	<shop>
+        <name>Duyên Dáng Contact Lens</name>
+        <description>Specialized in contact lenses as well as fashionable glasses. Take care of your eyes with a touch of beauty!</description>
+        <photo_name>shop04</photo_name>
+        <rating>5</rating>
+        <address>Hẻm 29 Xô Viết Nghệ Tỉnh An Hội Ninh Kiều Cần Thơ, Việt Nam</address>
+        <phone>0932031377</phone>
+        <website>http://www.duyendanglens.com/</website>
+        <open_time>Open 24h</open_time>
+        <close_time>Open 24h</close_time>
+        <region>Cần Thơ</region>
+        <long>105.783653</long>
+        <lat>10.0384589</lat>
+        <products>
+            <product>
+                <pname>Poppy eff.18</pname>
+                <desc>Code: DDS00119</desc>
+                <photo>shop04_01</photo>
+            </product>
+			<product>
+                <pname>nudy eff.18</pname>
+                <desc>Code: DDS00114</desc>
+                <photo>shop04_02</photo>
+            </product>
+			<product>
+                <pname>Hello Kitty eff.18</pname>
+                <desc>Code: DDS00107</desc>
+                <photo>shop04_03</photo>
+            </product>
+        </products>
+    </shop>
+	<shop>
+        <name>Giày Van's Huế - giày VNXK Thời trang giá rẻ</name>
+        <description>Best shoes in the business. We have shoes for everyone of all genders and ages. Just come and enjoy!</description>
+        <photo_name>shop05</photo_name>
+        <rating>4</rating>
+        <address>244 Tôn Thất Thiệp Thừa thiên Huế Thừa Thiên Huế Việt Nam</address>
+        <phone>0964733190</phone>
+        <website>https://www.facebook.com/giayvans.hue</website>
+        <open_time>Open 24h</open_time>
+        <close_time>Open 24h</close_time>
+        <region>Huế</region>
+        <long>107.5619702</long>
+        <lat>16.4753011</lat>
+        <products>
+            <product>
+                <pname>Chauffeur SF</pname>
+                <desc>Color: incense</desc>
+                <photo>shop05_01</photo>
+            </product>
+			<product>
+                <pname>Slip-On SF</pname>
+                <desc>Color: palm</desc>
+                <photo>shop05_02</photo>
+            </product>
+			<product>
+                <pname>Boys Drop V Pocket Raglan T-Shirt</pname>
+                <desc>Color: Exblusive/Oatmeal</desc>
+                <photo>shop05_03</photo>
+            </product>
+			<product>
+                <pname>KIDS GOLDEN COAST SK8-HI ZIP</pname>
+                <desc>Color: olympian blue/burnt ochre</desc>
+                <photo>shop05_04</photo>
+            </product>
+        </products>
+    </shop>
+	<shop>
+        <name>3bshop</name>
+        <description>Simply a gift shops. You can buy gifts at our store in a bulk if you want. So convenient!</description>
+        <photo_name>shop06</photo_name>
+        <rating>2</rating>
+        <address>Phú đa- Đức Thượng- Hoài Đức- Hà Nội</address>
+        <phone>01658961797</phone>
+        <website>http://3bshop.net/</website>
+        <open_time>Open 24h</open_time>
+        <close_time>Open 24h</close_time>
+        <region>Hà Nội</region>
+        <long>105.6946403</long>
+        <lat>21.0753358</lat>
+        <products>
+            <product>
+                <pname>Vi</pname>
+                <desc>Code: 297</desc>
+                <photo>shop06_01</photo>
+            </product>
+			<product>
+                <pname>Mabu</pname>
+                <desc>Code: 287</desc>
+                <photo>shop06_02</photo>
+            </product>
+        </products>
+    </shop>
+	<shop>
+        <name>Habeco</name>
+        <description>Best beverage shop in Ha Noi. There are alcohol for adults, soft drinks for children and even more! Check us out! </description>
+        <photo_name>shop07</photo_name>
+        <rating>3</rating>
+        <address>183 Hoàng Hoa Thám, Ba Đình, Hà nội</address>
+        <phone>0438453843</phone>
+        <website>http://www.habeco.com.vn/</website>
+        <open_time>Open 24h</open_time>
+        <close_time>Open 24h</close_time>
+        <region>Hà Nội</region>
+        <long>105.8225044</long>
+        <lat>21.0415653</lat>
+        <products>
+            <product>
+                <pname>Cherry Wine</pname>
+                <desc>Bottle volume: 750ml</desc>
+                <photo>shop07_01</photo>
+            </product>
+			<product>
+                <pname>Coffee Wine</pname>
+                <desc>Bottle volume: 750ml</desc>
+                <photo>shop07_02</photo>
+            </product>
+			<product>
+                <pname>330ml Beer Cans</pname>
+                <desc>Can volume: 330ml</desc>
+                <photo>shop07_03</photo>
+            </product>
+        </products>
+    </shop>
+</shops>

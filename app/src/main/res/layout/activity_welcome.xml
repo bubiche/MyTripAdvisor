@@ -1,0 +1,95 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:facebook="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".WelcomeActivity"
+    android:orientation="vertical"
+    android:weightSum="3"
+    android:background="@drawable/welcome_background"
+    android:onClick="onClickFindByType">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:src="@drawable/title_img"
+        android:id="@+id/title_iv"
+        android:scaleType="fitCenter"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"
+        android:layout_marginTop="@dimen/activity_vertical_margin"/>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:text="@string/findByCategory"
+        android:id="@+id/findByCatButton"
+        android:onClick="onClickFindByType"
+        android:background="@drawable/custom_button_pink"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"
+        android:textSize="20sp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/map_from_location"
+        android:id="@+id/map_button"
+        android:onClick="onClickNearMe"
+        android:background="@drawable/custom_button_pink"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"
+        android:textSize="20sp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/find_by_region"
+        android:id="@+id/map_region_button"
+        android:onClick="onClickRegion"
+        android:background="@drawable/custom_button_pink"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"
+        android:textSize="20sp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/favorite"
+        android:id="@+id/favorite_button"
+        android:onClick="onClickFavorite"
+        android:background="@drawable/custom_button_pink"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"
+        android:textSize="20sp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/more"
+        android:id="@+id/place_picker_button"
+        android:onClick="onClickPlacePicker"
+        android:background="@drawable/custom_button_pink"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"
+        android:textSize="20sp"/>
+
+
+    <com.facebook.share.widget.ShareButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/fb_share_button"
+        android:actionProviderClass=
+            "android.widget.ShareActionProvider"/>
+    </LinearLayout>
+    </ScrollView>
+</LinearLayout>

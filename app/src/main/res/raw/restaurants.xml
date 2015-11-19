@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<restaurants>
+    <restaurant>
+        <name>Ghiền &#95; Ăn Vặt</name>
+        <description>Our specialty is Southern Vietnamese snacks. Located in the biggest city of Southwestern Vietnam, we will not disappoint any customer coming to our place.</description>
+        <photo_name>res01</photo_name>
+        <rating>4</rating>
+        <address>30 Tháng 4, Quận Ninh Kiều, Cần Thơ</address>
+        <phone>0939555999</phone>
+        <website>http://www.foody.vn/can-tho/ghien-an-vat?utm_source=Dia+diem+dang+Hot&#38;utm_medium=cpc&#38;utm_campaign=Ghien+-+An+Vat</website>
+        <open_time>4:00</open_time>
+        <close_time>22:00</close_time>
+        <region>Cần Thơ</region>
+        <long>105.7806453</long>
+        <lat>10.0302515</lat>
+        <menu>
+            <dish>
+                <dish_name>Sữa lắc Dâu</dish_name>
+                <des>Strawberry Milkshake</des>
+                <photo>res01_01</photo>
+                <price>18000</price>
+            </dish>
+            <dish>
+                <dish_name>Khúc bạch trà xanh</dish_name>
+                <des>Vietnamese sweet dessert with green tea flavor</des>
+                <photo>res01_02</photo>
+                <price>20000</price>
+            </dish>
+			<dish>
+                <dish_name>Rau câu cà phê</dish_name>
+                <des>Coffee Jelly</des>
+                <photo>res01_03</photo>
+                <price>4000</price>
+            </dish>
+        </menu>
+    </restaurant>
+	<restaurant>
+        <name>Quán Hồi Đó</name>
+        <description>We offer a retrospective feeling of a time long gone. The quality of our food is second to none. Come and try!</description>
+        <photo_name>res02</photo_name>
+        <rating>5</rating>
+        <address>227/15A Trần Bình Trọng, Quận Ninh Kiều, Cần Thơ</address>
+        <phone>No Phone Number</phone>
+        <website>http://www.foody.vn/can-tho/ghien-an-vat?utm_source=Dia+diem+dang+Hot&#38;utm_medium=cpc&#38;utm_campaign=Ghien+-+An+Vat</website>
+        <open_time>7:00</open_time>
+        <close_time>22:00</close_time>
+        <region>Cần Thơ</region>
+        <long>105.7772887</long>
+        <lat>10.0347382</lat>
+        <menu>
+            <dish>
+                <dish_name>Bánh tằm bì</dish_name>
+                <des>Flour based dish with the shape of a silkworm served together with thin slices of pork</des>
+                <photo>res02_01</photo>
+                <price>15000</price>
+            </dish>
+            <dish>
+                <dish_name>Đá đậu</dish_name>
+                <des>Beans served with ice</des>
+                <photo>res02_02</photo>
+                <price>7000</price>
+            </dish>
+			<dish>
+                <dish_name>Bánh chuối</dish_name>
+                <des>Banana cake</des>
+                <photo>res02_03</photo>
+                <price>7000</price>
+            </dish>
+        </menu>
+    </restaurant>
+	<restaurant>
+        <name>Baskin Robbins Nguyễn Tri Phương</name>
+        <description>BR is already a famous name in Vietnam. Our restaurant is a great example of BR delicious food and extraordinary dining experience!</description>
+        <photo_name>res03</photo_name>
+        <rating>5</rating>
+        <address>308 Nguyễn Tri Phương, Phường 4, Quận 10, HCMC</address>
+        <phone>No Phone Number</phone>
+        <website>http://baskinrobbins.vn/</website>
+        <open_time>10:00</open_time>
+        <close_time>23:00</close_time>
+        <region>Hồ Chí Minh</region>
+        <long>106.6684773</long>
+        <lat>10.7628627</lat>
+        <menu>
+            <dish>
+                <dish_name>Sweet Sheep Cake</dish_name>
+                <des>The sweetest sheep you have ever tasted</des>
+                <photo>res03_01</photo>
+                <price>260000</price>
+            </dish>
+            <dish>
+                <dish_name>Chocolate Cookie Crackle</dish_name>
+                <des>Crunchy texture and chocolate is a divine combination</des>
+                <photo>res03_02</photo>
+                <price>50000</price>
+            </dish>
+			<dish>
+                <dish_name>Blueberry Pannacotta</dish_name>
+                <des>For people who want to try that dish from Masterchef!</des>
+                <photo>res03_03</photo>
+                <price>50000</price>
+            </dish>
+        </menu>
+    </restaurant>
+	<restaurant>
+        <name>Baskin Robbins Phạm Hồng Thái</name>
+        <description>BR is already a famous name in Vietnam. Our restaurant is a great example of BR delicious food and extraordinary dining experience!</description>
+        <photo_name>res03</photo_name>
+        <rating>5</rating>
+        <address>1 Trương Định, Phường Phạm Ngũ Lão, Quận 1, HCMC.</address>
+        <phone>No Phone Number</phone>
+        <website>http://baskinrobbins.vn/</website>
+        <open_time>10:00</open_time>
+        <close_time>23:00</close_time>
+        <region>Hồ Chí Minh</region>
+        <long>106.6684773</long>
+        <lat>10.7628627</lat>
+        <menu>
+            <dish>
+                <dish_name>Sweet Sheep Cake</dish_name>
+                <des>The sweetest sheep you have ever tasted</des>
+                <photo>res03_01</photo>
+                <price>260000</price>
+            </dish>
+            <dish>
+                <dish_name>Chocolate Cookie Crackle</dish_name>
+                <des>Crunchy texture and chocolate is a divine combination</des>
+                <photo>res03_02</photo>
+                <price>50000</price>
+            </dish>
+			<dish>
+                <dish_name>Blueberry Pannacotta</dish_name>
+                <des>For people who want to try that dish from Masterchef!</des>
+                <photo>res03_03</photo>
+                <price>50000</price>
+            </dish>
+        </menu>
+    </restaurant>
+</restaurants>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<regions>
+    <region>
+        <name>Hà Nội</name>
+        <longtitude>105.8369637</longtitude>
+        <latitude>21.0226967</latitude>
+        <city>Hà Nội</city>
+        <country>Việt Nam</country>
+    </region>
+    <region>
+        <name>Huế</name>
+        <longtitude>107.5769233</longtitude>
+        <latitude>16.4534778</latitude>
+        <city>Huế</city>
+        <country>Việt Nam</country>
+    </region>
+    <region>
+        <name>Hồ Chí Minh</name>
+        <longtitude>106.6943626</longtitude>
+        <latitude>10.768451</latitude>
+        <city>Hồ Chí Minh</city>
+        <country>Việt Nam</country>
+    </region>
+    <region>
+        <name>Cần Thơ</name>
+        <longtitude>105.7564947</longtitude>
+        <latitude>10.0341527</latitude>
+        <city>Cần Thơ</city>
+        <country>Việt Nam</country>
+    </region>
+</regions>

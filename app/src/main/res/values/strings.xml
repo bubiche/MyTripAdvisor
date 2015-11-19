@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Trip Advisor</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="findByCategory">Find Attraction by Type</string>
+    <string name="title_activity_category_list">CategoryListActivity</string>
+    <string name="promptChooseCat">Please choose the type of attraction you want to find</string>
+    <string name="restaurant">Restaurants</string>
+    <string name="hotel">Hotels</string>
+    <string name="shop">Shops</string>
+    <string name="park">Parks&#47;Gardens</string>
+    <string name="theater">Theaters&#47;Museums</string>
+    <string name="title_activity_attraction_list">AttractionListActivity</string>
+    <string name="sample">Sample Text</string>
+    <string name="reallyLongSample">aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\nbbbbb</string>
+    <string name="description">Description</string>
+    <string name="back">Back</string>
+    <string name="search_hint">Input attraction name here…</string>
+    <string name="map_from_location">Attraction Map (Near my location)</string>
+    <string name="title_activity_map">Attraction Map</string>
+    <string name="title_activity_region_list">RegionListActivity</string>
+    <string name="find_by_region">Find Attraction by Region</string>
+    <string name="select_region_prompt">Select a region!</string>
+    <string name="title_activity_place_picker">PlacePickerActivity</string>
+    <string name="more">More places from the Internet!</string>
+    <string name="chosen_title">Place Information</string>
+    <string name="facebook_app_id">1649204538652842</string>
+    <string name="title_activity_favorite">Choose Your Favorite Attraction Type</string>
+    <string name="title_activity_favorite_attraction_list">FavoriteAttractionListActivity</string>
+    <string name="favorite">My Favotite Attractions</string>
+    <string name="title_activity_place_add">PlaceAddActivity</string>
+    <string name="add">Add An Attraction</string>
+    <string name="add_title">Please input the information of the place you want to add.</string>
+    <string name="takepic">Take Photo</string>
+    <string name="add2">Add Place</string>
+    <string name="searchAndfav">Search here, hold an item to add favorite</string>
+    <string name="place_dummy">Your chosen place</string>
+    <string name="see">You have not chose a place with place picker or location service of your phone is turned off</string>
+    <string name="attr_det">Attraction Details</string>
+    <string name="di">Show Directions</string>
+    <string name="tap_video">Tap and hold the tile to see videos</string>
+    <string name="rating">Rating:</string>
+</resources>

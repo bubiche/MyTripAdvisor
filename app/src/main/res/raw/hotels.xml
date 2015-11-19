@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hotels>
+    <hotel>
+        <name>Hanoi Posh Hotel</name>
+        <description>A hotel of top notch quality in Ha Noi. You will feel right at home when staying with us. Opening all day long!!!</description>
+        <photo_name>hotel01</photo_name>
+        <rating>4</rating>
+        <address>4A Hàng Giấy st, Hoan Kiem dist, Hanoi</address>
+        <phone>84439276088</phone>
+        <website>http://hanoiposhhotel.com/</website>
+        <open_time>Open 24h</open_time>
+        <close_time>Open 24h</close_time>
+        <region>Hà Nội</region>
+        <long>105.8476035</long>
+        <lat>21.0364186</lat>
+        <room_types>
+            <room_type>
+                <rname>Standard Room</rname>
+                <info>There are single beds with a window</info>
+                <desc>The room is 22m2 and available on 5th and 6th floor. It is for 3 persons.</desc>
+                <photo>hotel01_01</photo>
+                <price>42000</price>
+            </room_type>
+
+            <room_type>
+                <rname>Family Room</rname>
+                <info>There is one double bed and one single bed</info>
+                <desc>The room is 38 m2 wide and available on the 6th, 7th and 8th floor. It is for 4 persons&#40;parents with 2 children&#41;.</desc>
+                <photo>hotel01_02</photo>
+                <price>75000</price>
+            </room_type>
+        </room_types>
+    </hotel>
+	<hotel>
+        <name>Khách Sạn Morning Star</name>
+        <description>Just the perfect place for you to stay when visiting Ha Noi. We have everything that you want and more. Always opening waiting for you.</description>
+        <photo_name>hotel02</photo_name>
+        <rating>3</rating>
+        <address>Số 10 Hàng Hành, Quận Hoàn Kiếm, Hanoi</address>
+        <phone>84438285581</phone>
+        <website>http://morningstarhotel.com.vn/</website>
+        <open_time>Open 24h</open_time>
+        <close_time>Open 24h</close_time>
+        <region>Hà Nội</region>
+        <long>105.8476035</long>
+        <lat>21.0364186</lat>
+        <room_types>
+            <room_type>
+                <rname>Standard Room</rname>
+                <info>Baby-sitting service. Fresh Daily Juice.</info>
+                <desc> </desc>
+                <photo>hotel02_01</photo>
+                <price>30000</price>
+            </room_type>
+
+            <room_type>
+                <rname>Lake View</rname>
+                <info>Baby-sitting service. Fresh Daily Juice.</info>
+                <desc> </desc>
+                <photo>hotel02_02</photo>
+                <price>55000</price>
+            </room_type>
+        </room_types>
+    </hotel>
+	<hotel>
+        <name>Khách sạn Duy Tân</name>
+        <description>If you want to find a place to stay when visiting the beautiful city of Hue, just come to us. Our website will be up soon so keep your eyes peeled!</description>
+        <photo_name>hotel03</photo_name>
+        <rating>5</rating>
+        <address>12 Hung Vuong St., Hue City, Vietnam</address>
+        <phone>84543825001</phone>
+        <website> </website>
+        <open_time>Open 24h</open_time>
+        <close_time>Open 24h</close_time>
+        <region>Huế</region>
+        <long>107.5917868</long>
+        <lat>16.4657379</lat>
+        <room_types>
+            <room_type>
+                <rname>Standard Room</rname>
+                <info>Mini-bar, Đông hồ báo thức.</info>
+                <desc>Số lượng phòng: 6 Diện tích: 20 m2</desc>
+                <photo>hotel03_01</photo>
+                <price>500000</price>
+            </room_type>
+
+            <room_type>
+                <rname>Suite</rname>
+                <info>Mini-bar, Đông hồ báo thức.</info>
+                <desc>Số lượng phòng: 3 Diện tích: 64 m2</desc>
+                <photo>hotel02_02</photo>
+                <price>1800000</price>
+            </room_type>
+        </room_types>
+    </hotel>
+	<hotel>
+        <name>Valentine Hotel Hue</name>
+        <description>Where love blooms. Come to our hotel and enjoy the most romantic experience you ever have when coming to Hue!</description>
+        <photo_name>hotel04</photo_name>
+        <rating>3</rating>
+        <address>7/64 Nguyen Cong Tru Str, Hue, Vietnam</address>
+        <phone>84543817665</phone>
+        <website>http://www.valentinehotelhue.com/</website>
+        <open_time>Open 24h</open_time>
+        <close_time>Open 24h</close_time>
+        <region>Huế</region>
+        <long>107.6009471</long>
+        <lat>16.4724624</lat>
+        <room_types>
+            <room_type>
+                <rname>Standard Room</rname>
+                <info>Daily continental breakfast. </info>
+                <desc>Number of bed: 1 Double bed or 2 Single beds </desc>
+                <photo>hotel04_01</photo>
+                <price>18000</price>
+            </room_type>
+
+            <room_type>
+                <rname>FAMILY ROOM</rname>
+                <info>Daily continental breakfast. </info>
+                <desc>Number of beds: 2 double beds</desc>
+                <photo>hotel04_02</photo>
+                <price>30000</price>
+            </room_type>
+        </room_types>
+    </hotel>
+	<hotel>
+        <name>Arise Hotel</name>
+        <description>Our lodgings offer a retrospective feel of the old Saigon as well as the dynamic feeling of one of the biggest city in Viet Nam. Come and enjoy!</description>
+        <photo_name>hotel05</photo_name>
+        <rating>4</rating>
+        <address>7/9 Nguyen Trai St., Ben Thanh Ward District 1, HCMC</address>
+        <phone>84839260578</phone>
+        <website>http://www.arieshotel.com.vn/</website>
+        <open_time>Open 24h</open_time>
+        <close_time>Open 24h</close_time>
+        <region>Hồ Chí Minh</region>
+        <long>106.6934694</long>
+        <lat>10.7709372</lat>
+        <room_types>
+            <room_type>
+                <rname>Standard Room</rname>
+                <info>No window, double bed, polished timber floor, ceiling fan, coffee&#47; tea maker and a marble bathroom with shower.</info>
+                <desc>Room Size: 18 Sq m </desc>
+                <photo>hotel05_01</photo>
+                <price>20000</price>
+            </room_type>
+
+            <room_type>
+                <rname>Apartment Room</rname>
+                <info>Comfortable sofa, kitchen and sleeping areas separates to makes for an elegant, lavishly appointed yet homely atmosphere.</info>
+                <desc>Room Size: 50 Sq m</desc>
+                <photo>hotel05_02</photo>
+                <price>30000</price>
+            </room_type>
+        </room_types>
+    </hotel>
+	<hotel>
+        <name>Hotel Majestic</name>
+        <description>Simply majestic. Noone can deny our professional yet heart warming service. You will feel both like a king and a close family member when staying with us.</description>
+        <photo_name>hotel06</photo_name>
+        <rating>4</rating>
+        <address>1 Đồng Khởi, Bến Nghé, Hồ Chí Minh, Việt Nam</address>
+        <phone>84838295517</phone>
+        <website>http://www.majesticsaigon.com.vn/</website>
+        <open_time>Open 24h</open_time>
+        <close_time>Open 24h</close_time>
+        <region>Hồ Chí Minh</region>
+        <long>106.7049502</long>
+        <lat>10.7721419</lat>
+        <room_types>
+            <room_type>
+                <rname>Colonial Deluxe</rname>
+                <info>Our Colonial rooms are elegant but also integrate innovative elements; they are very comfortable and always live up to the expectations since 1925. </info>
+                <desc>Total area: 35m2 </desc>
+                <photo>hotel06_01</photo>
+                <price>140000</price>
+            </room_type>
+
+            <room_type>
+                <rname>Colonial Pool Deluxe</rname>
+                <info>Our Colonial Pool Deluxe are not olny elegant but also integrate innovative elements; they are very comfortable and always live up to the expectations since 1925. </info>
+                <desc>Total area: 40m2</desc>
+                <photo>hotel06_02</photo>
+                <price>155000</price>
+            </room_type>
+        </room_types>
+    </hotel>
+	<hotel>
+        <name>Tay Do Hotel</name>
+        <description>Can Tho is the biggest city of South Western Viet Nam. Enjoy your stay in our hotel while exploring this wonderful city! We now offer the Deluxe Suite at half price!</description>
+        <photo_name>hotel07</photo_name>
+        <rating>3</rating>
+        <address>61 Châu Văn Liêm, An Lạc, Ninh Kiều, Cần Thơ , Việt Nam</address>
+        <phone>847103815316</phone>
+        <website>http://www.taydohotel.com.vn/</website>
+        <open_time>Open 24h</open_time>
+        <close_time>Open 24h</close_time>
+        <region>Cần Thơ</region>
+        <long>105.7849278</long>
+        <lat>10.0309614</lat>
+        <room_types>
+            <room_type>
+                <rname>Deluxe suite</rname>
+                <info>Include Breakfasts</info>
+                <desc>Room for 1 to 2 people</desc>
+                <photo>hotel07_01</photo>
+                <price>25000</price>
+            </room_type>
+
+            <room_type>
+                <rname>Superior</rname>
+                <info>Include Breakfasts</info>
+                <desc>Room for 1 to 3 people</desc>
+                <photo>hotel07_02</photo>
+                <price>30000</price>
+            </room_type>
+        </room_types>
+    </hotel>
+</hotels>

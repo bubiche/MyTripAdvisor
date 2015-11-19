@@ -1,0 +1,34 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.cs426.tripadvisor.MapActivity">
+    <item android:id="@+id/action_settings" android:title="@string/action_settings"
+        android:orderInCategory="100" android:showAsAction="never" />
+
+    <item android:id="@+id/filter_hotel" android:title="Show only Hotels"
+        android:orderInCategory="100" android:showAsAction="never"
+        android:onClick="show_hotels"/>
+
+    <item android:id="@+id/filter_park" android:title="Show only Parks and Gardens"
+        android:orderInCategory="100" android:showAsAction="never"
+        android:onClick="show_parks"/>
+
+    <item android:id="@+id/filter_res" android:title="Show only Restaurants"
+        android:orderInCategory="100" android:showAsAction="never"
+        android:onClick="show_res"/>
+
+    <item android:id="@+id/filter_shops" android:title="Show only Shops"
+        android:orderInCategory="100" android:showAsAction="never"
+        android:onClick="show_shops"/>
+
+    <item android:id="@+id/filter_the" android:title="Show only Theaters and Museums"
+        android:orderInCategory="100" android:showAsAction="never"
+        android:onClick="show_the"/>
+
+    <item android:id="@+id/search" android:title="Search an Attraction by Name"
+        android:orderInCategory="100" android:showAsAction="never"
+        android:onClick="search_click"/>
+
+    <item android:id="@+id/add_place_btn" android:title="Add a place"
+        android:showAsAction="ifRoom|withText"
+        android:onClick="addPlace"/>
+</menu>
